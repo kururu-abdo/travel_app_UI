@@ -1,8 +1,8 @@
 # travel_app
 
 using Flutter to build simple UI for a Travel app
-no APIs 
-no Local DB
+- no APIs 
+- no Local DB
 
 
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-06-11 at 01 26 52](https://github.com/kururu-abdo/travel_app_UI/assets/45058799/a439d050-76b2-4d6c-bfd7-ee5e584950d7)
