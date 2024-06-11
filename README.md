@@ -1,17 +1,10 @@
 # travel_app
 
-A new Flutter project.
+using Flutter to build simple UI for a Travel app
+no APIs 
+no Local DB
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# travel_app_UI
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-06-11 at 01 26 52](https://github.com/kururu-abdo/travel_app_UI/assets/45058799/a439d050-76b2-4d6c-bfd7-ee5e584950d7)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-06-11 at 01 26 51](https://github.com/kururu-abdo/travel_app_UI/assets/45058799/de13b3a6-d304-4478-84a0-4547390dd1f0)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-06-11 at 01 26 49](https://github.com/kururu-abdo/travel_app_UI/assets/45058799/81955536-be90-4e85-8d99-482c8568ce9d)
